@@ -1,59 +1,58 @@
-# Week-1-Apparel-Textiles-Fashion-Data-Collection
-Week 1 internship task: Data Collection and Preparation in Apparel, Textiles and Fashion
-# Week 1: Data Collection and Preparation in Apparel, Textiles & Fashion
+## Week 2: Exploratory Data Analysis and Trend Investigation
 
-## Task Objective
+### Objective
 
-The objective of this task is to identify, collect and prepare relevant publicly available data related to the apparel, textiles and fashion industry.
+The objective of Week 2 is to perform Exploratory Data Analysis (EDA) on apparel, textiles and fashion data to identify patterns, trends and relationships.
 
-## Data Sources
+### Research Questions
 
-The data collection process considered publicly available sources such as:
+- Which product categories are most common?
+- How do prices differ between categories?
+- Which materials and colours are most frequently used?
+- What is the distribution of product prices?
+- How do discounts vary across products?
+- Is there any relationship between discounts and ratings?
+- Which categories may require further investigation?
 
-- Government and statistical portals
-- Public datasets
-- Fashion trend resources
-- Publicly accessible product information
+### EDA Methods
 
-## Dataset Fields
+The following methods were planned and implemented:
 
-The dataset contains the following information:
+- Descriptive statistics
+- Frequency analysis
+- Category-wise analysis
+- Material analysis
+- Colour analysis
+- Price analysis
+- Discount analysis
+- Rating analysis
+- Correlation analysis
+- Outlier investigation
 
-- Product ID
-- Product Name
-- Brand
-- Category
-- Material
-- Colour
-- Size
-- Original Price
-- Sale Price
-- Rating
-- Source
+### Visualizations Planned
 
-## Data Preparation Steps
+The following charts can be created from the dataset:
 
-1. Collected relevant apparel and fashion data.
-2. Organized the data into a structured CSV format.
-3. Checked for missing values.
-4. Removed duplicate records.
-5. Standardized category names.
-6. Standardized material and colour values.
-7. Converted price values into numeric format.
-8. Calculated discount percentage.
-9. Created a cleaned dataset for future analysis.
+- Category frequency bar chart
+- Material frequency bar chart
+- Colour frequency bar chart
+- Sale price histogram
+- Price box plot
+- Discount distribution histogram
+- Discount vs Rating scatter plot
+- Average price by category chart
 
-## Project Structure
+### Business Insights
 
-```text
-Week-1-Apparel-Textiles-Fashion-Data-Collection/
-│
-├── README.md
-├── data/
-│   ├── apparel_fashion_data.csv
-│   └── cleaned_apparel_fashion_data.csv
-│
-├── report/
-│   └── Week_1_Data_Collection_and_Preparation.docx
-│
-└── data_cleaning.py
+EDA can help identify differences in product pricing, category distribution, material usage, discounts and customer ratings. These insights can support product assortment, pricing, promotional and inventory decisions.
+
+### Limitations
+
+The analysis is based on a limited/simulated dataset and should not be interpreted as a complete representation of the apparel industry. A larger dataset containing multiple brands, dates, sales volume, inventory and profit information would provide stronger conclusions.
+
+### Week 2 Deliverables
+
+- Exploratory Data Analysis report
+- EDA Python script
+- Cleaned apparel dataset
+- GitHub documentation
