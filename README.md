@@ -1,58 +1,73 @@
-## Week 2: Exploratory Data Analysis and Trend Investigation
+# Apparel, Textiles & Fashion Data Analytics Internship
 
-### Objective
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
+![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-black)
+![Domain](https://img.shields.io/badge/Domain-Apparel%20%26%20Fashion-purple)
 
-The objective of Week 2 is to perform Exploratory Data Analysis (EDA) on apparel, textiles and fashion data to identify patterns, trends and relationships.
+## Internship Project
 
-### Research Questions
+This repository contains my complete **3-week Data Analytics Internship project** in the **Apparel, Textiles & Fashion** domain.
 
-- Which product categories are most common?
-- How do prices differ between categories?
-- Which materials and colours are most frequently used?
-- What is the distribution of product prices?
-- How do discounts vary across products?
-- Is there any relationship between discounts and ratings?
-- Which categories may require further investigation?
+The project follows a structured data analytics workflow starting from data collection and preparation, followed by exploratory data analysis and trend investigation, and finally data visualization design and business reporting.
 
-### EDA Methods
+The purpose of this project is to understand apparel product data, identify meaningful patterns and trends, and present the findings in a clear and business-oriented manner.
 
-The following methods were planned and implemented:
+---
 
-- Descriptive statistics
-- Frequency analysis
-- Category-wise analysis
-- Material analysis
-- Colour analysis
-- Price analysis
-- Discount analysis
-- Rating analysis
-- Correlation analysis
-- Outlier investigation
+# Table of Contents
 
-### Visualizations Planned
+1. [Project Overview](#project-overview)
+2. [Project Objective](#project-objective)
+3. [Domain](#domain)
+4. [Project Timeline](#project-timeline)
+5. [Dataset Overview](#dataset-overview)
+6. [Week 1 - Data Collection and Preparation](#week-1---data-collection-and-preparation)
+7. [Week 2 - Exploratory Data Analysis](#week-2---exploratory-data-analysis)
+8. [Week 3 - Data Visualization and Reporting](#week-3---data-visualization-and-reporting)
+9. [Business Insights](#business-insights)
+10. [Data Quality and Validation](#data-quality-and-validation)
+11. [Tools and Technologies](#tools-and-technologies)
+12. [Project Structure](#project-structure)
+13. [Skills Demonstrated](#skills-demonstrated)
+14. [Challenges](#challenges)
+15. [Limitations](#limitations)
+16. [Future Scope](#future-scope)
+17. [Conclusion](#conclusion)
+18. [Author](#author)
 
-The following charts can be created from the dataset:
+---
 
-- Category frequency bar chart
-- Material frequency bar chart
-- Colour frequency bar chart
-- Sale price histogram
-- Price box plot
-- Discount distribution histogram
-- Discount vs Rating scatter plot
-- Average price by category chart
+# Project Overview
 
-### Business Insights
+The apparel, textile, and fashion industry generates large amounts of product information related to categories, materials, colours, sizes, prices, discounts, ratings, and brands.
 
-EDA can help identify differences in product pricing, category distribution, material usage, discounts and customer ratings. These insights can support product assortment, pricing, promotional and inventory decisions.
+Analyzing this information can help businesses understand:
 
-### Limitations
+- Product assortment
+- Pricing patterns
+- Discount strategies
+- Material preferences
+- Colour preferences
+- Customer ratings
+- Category-level differences
+- Potential market trends
 
-The analysis is based on a limited/simulated dataset and should not be interpreted as a complete representation of the apparel industry. A larger dataset containing multiple brands, dates, sales volume, inventory and profit information would provide stronger conclusions.
+This internship project demonstrates how such data can be collected, cleaned, explored, visualized, and converted into useful business insights.
 
-### Week 2 Deliverables
+The project is divided into three major stages:
 
-- Exploratory Data Analysis report
-- EDA Python script
-- Cleaned apparel dataset
-- GitHub documentation
+```text
+                 APPAREL DATA ANALYTICS
+                         |
+        +----------------+----------------+
+        |                |                |
+      WEEK 1           WEEK 2           WEEK 3
+        |                |                |
+ Data Collection      EDA & Trend      Visualization
+ & Preparation        Investigation    & Reporting
+        |                |                |
+        +----------------+----------------+
+                         |
+                  Business Insights
