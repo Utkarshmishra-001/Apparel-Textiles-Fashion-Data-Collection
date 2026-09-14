@@ -1,0 +1,10 @@
+Product_ID,Product_Name,Brand,Category,Material,Colour,Size,Original_Price,Sale_Price,Rating,Source,Discount_Percent
+A001,Classic Cotton Shirt,Sample Brand,Shirt,Cotton,Blue,M,1499,1299,4.2,Public Dataset,13.34
+A002,Regular Fit Jeans,Sample Brand,Jeans,Denim,Black,32,2299,1899,4.0,Public Dataset,17.4
+A003,Casual Summer Dress,Sample Brand,Dress,Cotton Blend,Red,M,1999,1599,4.4,Public Dataset,20.01
+A004,Sports T-Shirt,Sample Brand,T-Shirt,Polyester,Grey,L,1099,899,4.1,Public Dataset,18.2
+A005,Cotton Kurta,Sample Brand,Kurta,Cotton,White,L,1799,1499,4.3,Public Dataset,16.68
+A006,Running Shoes,Sample Brand,Footwear,Synthetic,Black,8,2999,2499,4.5,Public Dataset,16.67
+A007,Blue Denim Jacket,Sample Brand,Jacket,Denim,Blue,M,3499,2999,4.2,Public Dataset,14.29
+A008,Casual T Shirt,Sample Brand,T-Shirt,Cotton,Blue,L,999,799,4.0,Public Dataset,20.02
+A009,Formal Trousers,Sample Brand,Trousers,Polyester Blend,Black,34,2199,1799,4.1,Public Dataset,18.19
