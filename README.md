@@ -1,73 +1,40 @@
-# Apparel, Textiles & Fashion Data Analytics Internship
+# Week 4: Evaluation, Reporting and Strategic Recommendations
 
-![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
-![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-black)
-![Domain](https://img.shields.io/badge/Domain-Apparel%20%26%20Fashion-purple)
+## Objective
 
-## Internship Project
+The Week 4 task evaluates the analytical and visualization work
+completed during the previous weeks and converts the findings into
+practical strategic recommendations.
 
-This repository contains my complete **3-week Data Analytics Internship project** in the **Apparel, Textiles & Fashion** domain.
+## Evaluation
 
-The project follows a structured data analytics workflow starting from data collection and preparation, followed by exploratory data analysis and trend investigation, and finally data visualization design and business reporting.
+The project evaluates:
 
-The purpose of this project is to understand apparel product data, identify meaningful patterns and trends, and present the findings in a clear and business-oriented manner.
+- Data analysis methods
+- Visualization choices
+- Data quality
+- Business relevance
+- Limitations
+- Future opportunities
 
----
+## Strategic Recommendations
 
-# Table of Contents
+- Product assortment planning
+- Category-level pricing
+- Promotional and discount strategy
+- Material sourcing
+- Colour and seasonal planning
+- Customer satisfaction analysis
+- Inventory planning
 
-1. [Project Overview](#project-overview)
-2. [Project Objective](#project-objective)
-3. [Domain](#domain)
-4. [Project Timeline](#project-timeline)
-5. [Dataset Overview](#dataset-overview)
-6. [Week 1 - Data Collection and Preparation](#week-1---data-collection-and-preparation)
-7. [Week 2 - Exploratory Data Analysis](#week-2---exploratory-data-analysis)
-8. [Week 3 - Data Visualization and Reporting](#week-3---data-visualization-and-reporting)
-9. [Business Insights](#business-insights)
-10. [Data Quality and Validation](#data-quality-and-validation)
-11. [Tools and Technologies](#tools-and-technologies)
-12. [Project Structure](#project-structure)
-13. [Skills Demonstrated](#skills-demonstrated)
-14. [Challenges](#challenges)
-15. [Limitations](#limitations)
-16. [Future Scope](#future-scope)
-17. [Conclusion](#conclusion)
-18. [Author](#author)
+## Future Scope
 
----
+Future work can include:
 
-# Project Overview
-
-The apparel, textile, and fashion industry generates large amounts of product information related to categories, materials, colours, sizes, prices, discounts, ratings, and brands.
-
-Analyzing this information can help businesses understand:
-
-- Product assortment
-- Pricing patterns
-- Discount strategies
-- Material preferences
-- Colour preferences
-- Customer ratings
-- Category-level differences
-- Potential market trends
-
-This internship project demonstrates how such data can be collected, cleaned, explored, visualized, and converted into useful business insights.
-
-The project is divided into three major stages:
-
-```text
-                 APPAREL DATA ANALYTICS
-                         |
-        +----------------+----------------+
-        |                |                |
-      WEEK 1           WEEK 2           WEEK 3
-        |                |                |
- Data Collection      EDA & Trend      Visualization
- & Preparation        Investigation    & Reporting
-        |                |                |
-        +----------------+----------------+
-                         |
-                  Business Insights
+- Larger datasets
+- Historical analysis
+- Sales and inventory integration
+- Customer review analysis
+- Interactive Power BI dashboards
+- Predictive analytics
+- Demand forecasting
